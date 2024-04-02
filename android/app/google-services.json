@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672109351142",
+    "project_id": "fempro-s1f1sz",
+    "storage_bucket": "fempro-s1f1sz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672109351142:android:327945840e41eb5bb96b27",
+        "android_client_info": {
+          "package_name": "com.mycompany.fempro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_BlIno8UTW6owbtvLtQFw6oucZJOJ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
